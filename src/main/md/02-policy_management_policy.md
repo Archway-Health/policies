@@ -35,11 +35,5 @@ Archway implements policies and procedures to maintain compliance and integrity 
   4. Once the review is completed, the Security Officer approves or rejects the request. If the request is rejected, it goes back for further review and documentation.
   5. If the review is approved, the Security Officer then marks the request as Done, adding any pertinent notes required.
   6. Policy review is monitored on a quarterly basis using JIRA reports to assess compliance with above policy.
-7. Archway utilizes the HITRUST MyCSF framework to track compliance with the HITRUST CSF on an annual basis. Archway also tracks compliance with HIPAA and publishes results at [https://github.com/Archway-Health/hipaa](https://github.com/Archway-Health/hipaa). In order to track and measure adherence on an annual basis, Archway uses the following process to track HITRUST audits, both full and interim:
-  1. The Security Officer initiates the HITRUST audit activity by creating a Issue in the Compliance Review Activity (CRA) project.
-  2. The Security Officer or the Privacy Officer is assigned to own and manage the HITRUST activity.
-  3. Once the HITRUST activity is completed, the Security Officer approves or rejects the request.
-  5. If the review is approved, the Security Officer then marks the request as Done, adding any pertinent notes required.
-  6. Compliance with annual compliance assessments, utilizing the HITRUST CSF as a framework, is monitored on a quarterly basis using JIRA reporting to assess compliance with above policy.
 
 Additional documentation related to maintenance of policies is outlined in [§4.3.1](#4.3-security-officer).
